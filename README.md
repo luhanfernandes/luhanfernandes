@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá! Eu sou Luhan Fernandes!
 
-<!--
-**luhanfernandes/luhanfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻🖥 Computer science student, 3rd semester, UNIFG
+- 👨‍💻💻 System Analysis and Development Student, 2nd semester, IFPE
+- 📅 20 Years old
+- 🏙 Recife, Brasil
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/luhanfernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhanfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhanfernandes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Luhan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luhan-Pycarhm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+</div>
+  
+  ##
+  
+  <div>
+  <a href="https://instagram.com/l_fernandes32" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fernandes.luhan18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fernandes_luhan15@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luhanfernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
